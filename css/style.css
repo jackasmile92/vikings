@@ -41,7 +41,7 @@ ul {
 .header {
     height: 100vh;
 
-    background-image: url('../Images/header-bg.jpg');
+    background-image: url('../images/header-bg.jpg');
 
     background-size: cover;
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ ul {
 }
 
 .video {
-    background-image: url('../Images/video-bg.jpg');
+    background-image: url('../images/video-bg.jpg');
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -148,5 +148,5 @@ ul {
     height: 100px;
     top: -40px;
     left: 0;
-    background-image: url('../Images/youtube.svg');
+    background-image: url('../images/youtube.svg');
 }
